@@ -1,0 +1,5 @@
+[core]
+    remote = mlops
+['remote "mlops"']
+    url = gdrive://1sKUHD3iDYQ83nQQhMmTcO1voXez2VJdp
+    gdrive_client_id = "'856039834676-2ikfdd6lkpvdpa6lnpddasj7vpj7u2om.apps.googleusercontent.com'"
